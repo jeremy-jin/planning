@@ -1,0 +1,12 @@
+{
+  "extends": [
+    "eslint:recommended",
+    "plugin:react/recommended",
+    "plugin:react/tsx-runtime"
+  ],
+  "settings": {
+    "react": {
+      "version": "detect"
+    }
+  }
+}
